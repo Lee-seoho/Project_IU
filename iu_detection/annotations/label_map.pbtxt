@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'iu'
+}
+
+item {
+    id: 2
+    name: 'ch'
+}
+
+item {
+    id: 3
+    name: 'sh'
+}
+
+item {
+    id: 4
+    name: 'others'
+}
